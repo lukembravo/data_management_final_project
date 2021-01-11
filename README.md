@@ -1,4 +1,5 @@
 # Data Management Final Project
+![data management final project](https://i.imgur.com/onsLBGK.jpg)
 
 Our group was tasked with creating what we believed to be an reasonable approximation of the data architecture and strategy for a company of our choice. We assumed the roles of data scientists working for Nike, and began with three separate third-normal-form databases serving as hypothetical transaction management systems. We then needed to develop a denormalized architecture and create an extract-transform-load procedure that would bring our three 3NF databases into an enterprise data warehouse and ultimately a data lake. Finally, we used Apache Spark to create simple visualizations of our data after being combined and stored in our lake (see slide 17 and onward of [our presentation](https://github.com/lukembravo/data_management_final_project/blob/master/Presentation%20deck.pdf)).
 
